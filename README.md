@@ -18,7 +18,7 @@ If you like this program, and like this idea, you can help me with my [coffee fu
 
 Preferably clone repository, alternatively you can download zip and tarball [here](https://github.com/Ekultek/whitewidow/releases/tag/1.0.6.1)
 
-For now download the zip or tar file, cloning the repository will now allow you to run the program.
+For now download the zip or tar file, cloning the repository will not allow you to run the program.
 
 #Usage
 
